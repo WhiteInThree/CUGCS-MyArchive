@@ -1,0 +1,3 @@
+1.把glut.h放到Microsoft Visual Studio\VC98\Include\GLl文件夹.
+2.把glut.lib和glut32.lib放到Microsoft Visual Studio\VC98\ lib.
+3.把glut.dll和glut32.dll放到操作系统目录下面的system32文件夹内（典型的位置为：C:\Windows\System32）.(如果是win 7 64位操作系统，则是C:\WINDOWS中SysWOW64这个文件下)

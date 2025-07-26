@@ -1,0 +1,6 @@
+A text line is a sequence of ASCII characters.
+1107296256 1101196553
+134 133 130 125 118 109 98 85 70
+263 997
+1 13
+
